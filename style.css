@@ -42,3 +42,8 @@ ul li a {
 	line-height: 28px;
 }
 
+
+ul li a:hover {
+	color: var(--colorBoton);
+	text-decoration: line-through;
+}
