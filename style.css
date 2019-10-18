@@ -10,6 +10,9 @@ section.menu {
 	width: 1440px;
 	height: 80px;
 	justify-content: space-between;
+	padding: 22px 100px;
+	box-sizing: border-box;
+	align-items: center;
 }
 
 .menu img {
