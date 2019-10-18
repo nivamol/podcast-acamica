@@ -27,6 +27,7 @@ nav ul {
 
 nav ul li {
 	padding-right: 48px;
+	font-family: var(--fuenteSecundaria);
 }
 
 nav ul li:nth-of-type(4) {
@@ -36,5 +37,8 @@ nav ul li:nth-of-type(4) {
 ul li a {
 	text-decoration: none;
 	color: var(--colorFuente);
+	font-size: 16px;
+	letter-spacing: 0;
+	line-height: 28px;
 }
 
