@@ -25,6 +25,14 @@ nav ul {
 	list-style: none;
 }
 
+nav ul li {
+	padding-right: 48px;
+}
+
+nav ul li:nth-of-type(4) {
+	padding-right: 0;
+}
+
 ul li a {
 	text-decoration: none;
 	color: var(--colorFuente);
