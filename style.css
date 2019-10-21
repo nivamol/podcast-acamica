@@ -55,16 +55,37 @@ ul li a:active {
 
 /* header */
 
+body {
+	width: 1440px;
+}
+
 header {
 
 }
 
 header h1 {
+	margin: 120px 518px 0 200px;
+	font-family: var(--fuentePrincipal);
+	font-size: 46px;
+	font-weight: normal;
+	letter-spacing: 0;
+	padding: 0;
+	width: 722px;
+}
 
+header h1 span.word {
+	text-decoration: line-through;
+	margin: 120px 0 0 0;
+}
+
+header h1 span.point {
+	color: blue;
+	border-radius: 50%;
 }
 
 header p {
-
+	width: 628px;
+	margin: 0 612px 56px 200px;
 }
 
 header button {
