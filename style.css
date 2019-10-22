@@ -112,3 +112,15 @@ header button:hover {
 	color: white;
 }
 
+/* episodios */
+
+section.episodios {
+	height: 1042.6px;
+	width: 100%;
+	clip-path: polygon(51% 10%, 100% 0, 100% 81%, 100% 81%, 51% 91%, 0 100%, 0 19%);
+	background-color: #0000FE;
+	position: absolute;
+}
+
+.episodios h1 {
+}
