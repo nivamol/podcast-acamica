@@ -138,9 +138,9 @@ div.podcast {
 }
 
 div.podcast img {
-	margin: 0 72px 72px 0;
+	padding: 0 72px 72px 0;
 }
 
-div.podcast:nth-child(3) {
-	margin-bottom: 0;
+div.podcast img.cuatro {
+	padding-right: 0;
 }
