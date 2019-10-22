@@ -119,7 +119,7 @@ section.episodios {
 	width: 100%;
 	clip-path: polygon(51% 10%, 100% 0, 100% 81%, 100% 81%, 51% 91%, 0 100%, 0 19%);
 	background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
-	position: absolute;
+	position: relative;
 }
 
 .episodios h2 {
@@ -138,9 +138,30 @@ div.podcast {
 }
 
 div.podcast img {
-	margin: 0 72px 72px 0;
+	padding: 0 72px 72px 0;
 }
 
-div.podcast:nth-child(3) {
-	margin-bottom: 0;
+div.podcast img.cuatro {
+	padding-right: 0;
 }
+
+/*episodios*/
+
+div.imagen-phone img {
+
+}
+
+div.venimos_descripcion h2 {
+
+}
+
+div.venimos_descripcion h2 {
+
+}
+
+div.venimos_descripcion p {
+	
+}
+
+
+
