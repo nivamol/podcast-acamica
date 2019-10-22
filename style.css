@@ -118,7 +118,7 @@ section.episodios {
 	height: 1200px;
 	width: 100%;
 	clip-path: polygon(51% 10%, 100% 0, 100% 81%, 100% 81%, 51% 91%, 0 100%, 0 19%);
-	background-color: #0000FE;
+	background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
 	position: absolute;
 }
 
