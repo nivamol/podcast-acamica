@@ -122,5 +122,11 @@ section.episodios {
 	position: absolute;
 }
 
-.episodios h1 {
+.episodios h2 {
+	padding: 200px 1031px 26px 200px;
+	font-family: var(--fuentePrincipal);
+	font-size: 48px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	font-weight: lighter;
 }
