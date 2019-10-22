@@ -83,7 +83,7 @@ header h1 span.point {
 header p {
 	width: 628px;
 	height: 48px;
-	margin: 0 612px 56px 200px;
+	margin: 0 56px 0 200px;
 	font-family: var(--fuenteSecundaria);
 	font-size: 16px;
 	color: var(--colorFuente);
