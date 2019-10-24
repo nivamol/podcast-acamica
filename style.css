@@ -123,7 +123,7 @@ section.episodios {
 }
 
 .episodios h2 {
-	padding: 200px 1031px 26px 200px;
+	padding: 260px 1031px 26px 200px;
 	font-family: var(--fuentePrincipal);
 	font-size: 48px;
 	color: #FFFFFF;
@@ -145,39 +145,6 @@ div.podcast img.cuatro {
 	padding-right: 0;
 }
 
-
-/*phone*/
-
-section.phone {
-	display: flex;
-	position: relative;
-}
-
-div.imagen-phone {
-
-}
-
-.imagen-phone img {
-	width: 457.6px;
-	height: 660px;
-	position: absolute;
-	left: 200px;
-	top: -164px;
-}
-
-div.venimos_descripcion {
-	position: absolute;
-	width: 464px;
-	left: 720px;
-}
-
-.venimos_descripcion h2 {
-	font-family: var(--fuentePrincipal);
-	font-size: 48px;
-	color: var(--colorFuente);
-	letter-spacing: 0;
-	font-weight: lighter;
-}
 
 .venimos_descripcion p {
 	font-family: var(--fuenteSecundaria);
