@@ -180,5 +180,9 @@ div.venimos_descripcion {
 }
 
 .venimos_descripcion p {
-	
+	font-family: var(--fuenteSecundaria);
+	font-size: 16px;
+	color: var(--colorFuente);
+	line-height: 24px;
+	letter-spacing: 0;
 } 
