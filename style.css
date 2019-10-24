@@ -149,7 +149,7 @@ div.podcast img.cuatro {
 /*phone*/
 
 section.phone {
-
+	display: flex;
 }
 
 div.imagen-phone {
