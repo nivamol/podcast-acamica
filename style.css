@@ -191,11 +191,12 @@ div.venimos_descripcion {
 /*invitados*/
 
 section.invitados {
-
+	position: relative;
+	top: 653px;
 }
 
 div.imagenes-invitados {
-
+	
 }
 
 div.imagen-1 img {
