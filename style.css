@@ -166,7 +166,9 @@ div.imagen-phone {
 }
 
 div.venimos_descripcion {
-
+	position: absolute;
+	width: 464px;
+	left: 720px;
 }
 
 .venimos_descripcion h2 {
