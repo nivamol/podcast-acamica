@@ -200,10 +200,6 @@ div.imagenes-invitados {
 	flex-wrap: wrap;
 }
 
-div.imagen-1 img {
-
-}
-
-div.imagen-2 img {
-
+div.imagenes-invitados img {
+	width: 480px;
 }
