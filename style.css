@@ -1,5 +1,5 @@
 :root {
-  --fuentePrincipal: 'IBM Plex Sans', sans-serif;
+  	--fuentePrincipal: 'IBM Plex Sans', sans-serif;
 	--fuenteSecundaria: 'IBM Plex Mono', monospace;
 	--colorFuente: #060A24;
 	--colorBoton: #00F3BB;
@@ -172,7 +172,11 @@ div.venimos_descripcion {
 }
 
 .venimos_descripcion h2 {
-
+	font-family: var(--fuentePrincipal);
+	font-size: 48px;
+	color: var(--colorFuente);
+	letter-spacing: 0;
+	font-weight: lighter;
 }
 
 .venimos_descripcion p {
