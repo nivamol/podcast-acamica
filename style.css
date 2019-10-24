@@ -196,7 +196,8 @@ section.invitados {
 }
 
 div.imagenes-invitados {
-	
+	display: flex;
+	flex-wrap: wrap;
 }
 
 div.imagen-1 img {
