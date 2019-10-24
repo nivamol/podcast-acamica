@@ -143,29 +143,31 @@ div.podcast img {
 
 div.podcast img.cuatro {
 	padding-right: 0;
-<<<<<<< HEAD
-}
-=======
 }
 
-/*episodios*/
 
-div.imagen-phone img {
+/*phone*/
+
+section.phone {
 
 }
 
-div.venimos_descripcion h2 {
+div.imagen-phone {
 
 }
 
-div.venimos_descripcion h2 {
+.imagen-phone img {
 
 }
 
-div.venimos_descripcion p {
+div.venimos_descripcion {
+
+}
+
+.venimos_descripcion h2 {
+
+}
+
+.venimos_descripcion p {
 	
-}
-
-
-
->>>>>>> episodios
+} 
