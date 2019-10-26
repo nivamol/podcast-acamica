@@ -220,6 +220,8 @@ section.temas {
 	position: relative;
 	top: 720px;
 	width: 100%;
+	box-sizing: border-box;
+	
 }
 
 .temas h2 {
@@ -231,4 +233,32 @@ section.temas {
 	margin: 0;
 	margin-left: 200px;
 
+}
+
+div.temas_iconos {
+	display: flex;
+	justify-content: space-evenly;
+	margin-left: 30px;
+	box-sizing: border-box;
+	width: 940px;
+	margin: 0 auto;
+}
+
+div.iconos {
+	margin-top: 69px;
+	width: 260px;
+	height: 162px;
+	text-align: center;
+}
+
+.iconos p {
+	font-family: var(--fuentePrincipal);
+	font-weight: 800;
+	font-size: 24px;
+	letter-spacing: 0;
+	padding: 0 20px;
+}
+
+.iconos img {
+	padding: 0 78px;
 }
