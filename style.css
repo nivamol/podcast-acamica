@@ -213,3 +213,11 @@ div.imagenes-invitados {
 div.imagenes-invitados img {
 	width: 480px;
 }
+
+/*temas*/
+
+section.temas {
+	position: relative;
+	top: 720px;
+	width: 100%;
+}
