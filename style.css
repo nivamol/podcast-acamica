@@ -242,6 +242,7 @@ div.temas_iconos {
 	box-sizing: border-box;
 	width: 940px;
 	margin: 0 auto;
+	padding-bottom: 34px;
 }
 
 div.iconos {
