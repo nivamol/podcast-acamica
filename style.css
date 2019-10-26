@@ -195,6 +195,16 @@ section.invitados {
 	top: 653px;
 }
 
+.invitados h2 {
+	font-family: var(--fuentePrincipal);
+	font-size: 48px;
+	color: var(--colorFuente);
+	letter-spacing: 0;
+	font-weight: lighter;
+	margin-left: 200px;
+	margin-top: -64px;
+}
+
 div.imagenes-invitados {
 	display: flex;
 	flex-wrap: wrap;
