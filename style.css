@@ -221,3 +221,14 @@ section.temas {
 	top: 720px;
 	width: 100%;
 }
+
+.temas h2 {
+	font-family: var(--fuentePrincipal);
+	font-size: 48px;
+	color: var(--colorFuente);
+	letter-spacing: 0;
+	font-weight: lighter;
+	margin: 0;
+	margin-left: 200px;
+
+}
