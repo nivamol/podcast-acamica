@@ -327,3 +327,15 @@ div.social-media_parrafo p {
 	padding-left: 100px;
 }
 
+
+.social-media_icons {
+	display: flex;
+	justify-content: space-between;
+	width: 206px;
+	padding-right: 100px;
+}
+
+.social-media_icons a {
+	text-decoration: none;
+	color: var(--colorFuente);
+}
