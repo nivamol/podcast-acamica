@@ -285,3 +285,23 @@ section.novedades {
 	color: #FFFFFF;
 	letter-spacing: 0;
 }
+
+.novedades button {
+	width: 345px;
+	height: 56px;
+	font-family: var(--fuenteSecundaria);
+	font-size: 18px;
+	color: var(--colorFuente);
+	letter-spacing: 0;
+	text-transform: uppercase;
+	line-height: 24px;
+	background: var(--colorBoton);
+	outline: none;
+}
+
+.novedades button:hover {
+	cursor: pointer;
+	color: white;
+	background-image: linear-gradient(225deg, #0000FE 0%, #00F0B8 100%);
+	border: none;
+}
