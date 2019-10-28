@@ -310,9 +310,20 @@ section.novedades {
 
 section.social-media {
 	position: relative;
-	top: 818px;
+	top: 794px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+}
+
+div.social-media_parrafo p {
+	margin: 0;
+	padding: 36px 0 31px 0;
+	font-family: var(--fuenteSecundaria);
+	font-size: 17px;
+	color: var(--colorFuente);
+	letter-spacing: 0;
+	line-height: 28px;
+	padding-left: 100px;
 }
 
