@@ -115,7 +115,7 @@ header button:hover {
 /* episodios */
 
 section.episodios {
-	height: 1150px;
+	height: 1200px;
 	width: 100%;
 	clip-path: polygon(51% 10%, 100% 0, 100% 81%, 100% 81%, 51% 91%, 0 100%, 0 19%);
 	background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
@@ -133,20 +133,16 @@ section.episodios {
 }
 
 div.podcast {
-	margin: 0;
+	width: 100%;
 	justify-content: center;
 	display: flex;
 	flex-wrap: wrap;
 }
 
-div.podcast img {
-	padding: 0 72px 72px 0;
+div.podcast iframe {
+	width: 584px;
+	padding: 36px;
 }
-
-div.podcast img.cuatro {
-	padding-right: 0;
-}
-
 
 /*phone*/
 
