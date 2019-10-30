@@ -198,7 +198,7 @@ div.venimos_descripcion {
 
 section.invitados {
 	position: relative;
-	top: 162px;
+	top: 0px;
 }
 
 .invitados h2 {
@@ -208,7 +208,7 @@ section.invitados {
 	letter-spacing: 0;
 	font-weight: lighter;
 	margin-left: 200px;
-	margin-top: -64px;
+	margin-top: -50px;
 }
 
 div.imagenes-invitados {
