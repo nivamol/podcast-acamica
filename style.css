@@ -152,27 +152,29 @@ div.podcast img.cuatro {
 
 section.phone {
 	display: flex;
+	justify-content: space-between;
+	align-items: center;
 	position: relative;
 	width: 100%;
+	height: 600px;
+	top: -164px;
 }
 
 div.imagen-phone {
-
 }
+
 
 .imagen-phone img {
 	width: 457.6px;
 	height: 660px;
 	position: absolute;
 	left: 200px;
-	top: -164px;
+	top: 0;
 }
 
 div.venimos_descripcion {
-	position: absolute;
-	top: -40.4px;
-	width: 464px;
-	left: 720px;
+	position: relative;
+	width: 50%;
 }
 
 .venimos_descripcion h2 {
@@ -189,13 +191,14 @@ div.venimos_descripcion {
 	color: var(--colorFuente);
 	line-height: 24px;
 	letter-spacing: 0;
+	width: 464px;
 } 
 
 /*invitados*/
 
 section.invitados {
 	position: relative;
-	top: 653px;
+	top: 162px;
 }
 
 .invitados h2 {
