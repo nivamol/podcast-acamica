@@ -217,7 +217,8 @@ div.imagenes-invitados {
 }
 
 div.imagenes-invitados img {
-	width: 475px;
+	width: 33.3%;
+	/*width: 475px; */
 }
 
 /*temas*/
@@ -315,15 +316,15 @@ section.novedades {
 
 section.social-media {
 	position: relative;
-	top: 794px;
 	display: flex;
+	top: 50px;
 	justify-content: space-between;
 	align-items: center;
+	padding: 36px 0 31px 0;
 }
 
 div.social-media_parrafo p {
 	margin: 0;
-	padding: 36px 0 31px 0;
 	font-family: var(--fuenteSecundaria);
 	font-size: 17px;
 	color: var(--colorFuente);
